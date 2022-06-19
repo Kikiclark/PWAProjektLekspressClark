@@ -1,0 +1,2 @@
+Isprike na SQL-u, uopce se nije dalo exportat.
+Postavio sam screenshotove baza kojih imam i kako funkcionira sa njima
